@@ -1,0 +1,7 @@
+"key","name","version","license","usedBy"
+"react_16.13.1","react","16.13.1","MIT","[""my-project""]"
+"express_4.17.1","express","4.17.1","MIT","[""another-project""]"
+"pg_8.3.3","pg","8.3.3","MIT","[""another-project""]"
+"react-dom_16.13.1","react-dom","16.13.1","MIT","[""my-project""]"
+"react-router_5.2.0","react-router","5.2.0","MIT","[""my-project""]"
+"typescript_4.0.2","typescript","4.0.2","Apache-2.0","[""another-project"",""my-project""]"
